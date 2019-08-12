@@ -1,0 +1,11 @@
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\bin\Debug\Dice.exe
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\bin\Debug\Dice.pdb
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\bin\Debug\Dice.xml
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\obj\Debug\Dice.Form1.resources
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\obj\Debug\Dice.Resources.resources
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\obj\Debug\Dice.vbproj.GenerateResource.Cache
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\obj\Debug\Dice.exe
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\obj\Debug\Dice.xml
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\obj\Debug\Dice.pdb
+E:\Desktop\Personal works\progs\Dice\V1\Dice\Dice\obj\Debug\Dice.Form2.resources
